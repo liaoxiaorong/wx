@@ -4,16 +4,10 @@
 
 ## QuickStart
 
-Download precompiled Mac, Linux [Releases](https://github.com/liaoxiaorong/wx/releases)
+Download precompiled [Releases](https://github.com/liaoxiaorong/wx/releases)
 
 ```console
-$ ./wx-linux-amd64
-```
-
-or
-
-```console
-$ ./wx-darwin-amd64
+$ ./wx
 ```
 
 ## Install
