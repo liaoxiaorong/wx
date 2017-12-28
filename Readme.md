@@ -2,6 +2,20 @@
 
 ## 微信客户端 Golang实现
 
+## QuickStart
+
+Download precompiled Mac, Linux [Releases](https://github.com/liaoxiaorong/wx/releases)
+
+```console
+$ ./wx-linux-amd64
+```
+
+or
+
+```console
+$ ./wx-darwin-amd64
+```
+
 ## Install
 
 ```console
